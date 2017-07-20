@@ -1,0 +1,90 @@
+
+lesspine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LBody
+  rotate: true
+  xy: 0, 71
+  size: 166, 328
+  orig: 166, 328
+  offset: 0, 0
+  index: -1
+Lantlers
+  rotate: false
+  xy: 703, 292
+  size: 183, 182
+  orig: 183, 182
+  offset: 0, 0
+  index: -1
+Lblink
+  rotate: false
+  xy: 687, 244
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+Lbottomjscarf
+  rotate: false
+  xy: 350, 297
+  size: 351, 177
+  orig: 351, 177
+  offset: 0, 0
+  index: -1
+Lbottomscarffly
+  rotate: false
+  xy: 0, 239
+  size: 348, 235
+  orig: 348, 235
+  offset: 0, 0
+  index: -1
+Lclosed
+  rotate: false
+  xy: 588, 251
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+Lhead
+  rotate: true
+  xy: 330, 58
+  size: 163, 190
+  orig: 163, 190
+  offset: 0, 0
+  index: -1
+Lleftarm
+  rotate: true
+  xy: 0, 0
+  size: 69, 255
+  orig: 69, 255
+  offset: 0, 0
+  index: -1
+Lleftleg
+  rotate: false
+  xy: 888, 296
+  size: 63, 178
+  orig: 63, 178
+  offset: 0, 0
+  index: -1
+Lrightarm
+  rotate: true
+  xy: 350, 223
+  size: 72, 236
+  orig: 72, 236
+  offset: 0, 0
+  index: -1
+Lrightleg
+  rotate: false
+  xy: 953, 302
+  size: 53, 172
+  orig: 53, 172
+  offset: 0, 0
+  index: -1
+Lscarf
+  rotate: true
+  xy: 522, 103
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1

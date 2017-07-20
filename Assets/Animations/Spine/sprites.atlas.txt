@@ -1,0 +1,40 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 2, 127
+  size: 951, 859
+  orig: 951, 859
+  offset: 0, 0
+  index: -1
+Right_Wing
+  rotate: false
+  xy: 2, 2
+  size: 226, 123
+  orig: 226, 123
+  offset: 0, 0
+  index: -1
+
+sprites2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left_Wing
+  rotate: false
+  xy: 2, 2
+  size: 368, 384
+  orig: 368, 384
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 372, 167
+  size: 329, 219
+  orig: 329, 219
+  offset: 0, 0
+  index: -1

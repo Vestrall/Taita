@@ -1,0 +1,76 @@
+
+rockyantlers.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antler1
+  rotate: true
+  xy: 284, 129
+  size: 102, 222
+  orig: 102, 222
+  offset: 0, 0
+  index: -1
+antler2
+  rotate: true
+  xy: 505, 373
+  size: 129, 333
+  orig: 129, 333
+  offset: 0, 0
+  index: -1
+bgrock
+  rotate: true
+  xy: 840, 332
+  size: 170, 174
+  orig: 170, 174
+  offset: 0, 0
+  index: -1
+plant1
+  rotate: false
+  xy: 236, 170
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+plant2
+  rotate: false
+  xy: 0, 0
+  size: 210, 47
+  orig: 210, 47
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 719, 259
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: true
+  xy: 505, 243
+  size: 128, 212
+  orig: 128, 212
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 0, 203
+  size: 282, 299
+  orig: 282, 299
+  offset: 0, 0
+  index: -1
+stars1
+  rotate: true
+  xy: 0, 49
+  size: 152, 234
+  orig: 152, 234
+  offset: 0, 0
+  index: -1
+stars2
+  rotate: false
+  xy: 284, 233
+  size: 219, 269
+  orig: 219, 269
+  offset: 0, 0
+  index: -1

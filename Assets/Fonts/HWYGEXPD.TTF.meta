@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d98dd5d9227262e4daab7c374186302b
+timeCreated: 1489879657
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Highway Gothic Expanded
+  fontNames:
+  - Highway Gothic Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

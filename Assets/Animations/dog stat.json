@@ -1,0 +1,91 @@
+{
+"skeleton": { "hash": "R0klP1eWaqaOxGdlYMc7MJqHZn8", "spine": "3.5.41", "width": 646, "height": 676, "images": "./images/Images_dogstat/" },
+"bones": [
+	{ "name": "root", "x": 19.24, "y": 272.32 },
+	{ "name": "bodydogstatue", "parent": "root", "length": 188.86, "rotation": 91.75, "x": -17.31, "y": -22.38 },
+	{ "name": "bootttomeye", "parent": "root", "length": 26.45, "rotation": 119.36, "x": -136.92, "y": 332.1 },
+	{ "name": "headmiddle", "parent": "root", "length": 18.79, "rotation": 122.47, "x": -116.74, "y": 358.04 },
+	{ "name": "topeye", "parent": "root", "length": 18.23, "rotation": 108.43, "x": -83.6, "y": 363.8 }
+],
+"slots": [
+	{ "name": "bodydogstatue", "bone": "bodydogstatue", "attachment": "bodydogstatue" },
+	{ "name": "eyeclosed", "bone": "root", "attachment": "eyeclosed" },
+	{ "name": "headmiddle", "bone": "headmiddle", "attachment": "headmiddle" },
+	{ "name": "bootttomeye", "bone": "bootttomeye", "attachment": "bootttomeye" },
+	{ "name": "topeye", "bone": "topeye", "attachment": "topeye" }
+],
+"skins": {
+	"default": {
+		"bodydogstatue": {
+			"bodydogstatue": { "x": 83.23, "y": -17.86, "rotation": -91.75, "width": 646, "height": 676 }
+		},
+		"bootttomeye": {
+			"bootttomeye": { "x": 11.6, "y": -21.35, "rotation": -119.36, "width": 72, "height": 66 }
+		},
+		"eyeclosed": {
+			"eyeclosed": { "x": -115.5, "y": 352.68, "width": 87, "height": 66 }
+		},
+		"headmiddle": {
+			"headmiddle": { "x": -4.65, "y": 2.67, "rotation": -122.47, "width": 87, "height": 66 }
+		},
+		"topeye": {
+			"topeye": { "x": -0.15, "y": 33.15, "rotation": -108.43, "width": 86, "height": 67 }
+		}
+	}
+},
+"animations": {
+	"Bottom_Eye_Dog_Statue": {
+		"slots": {
+			"bootttomeye": {
+				"attachment": [
+					{ "time": 0, "name": "bootttomeye" }
+				]
+			},
+			"headmiddle": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"topeye": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"Middle_Eye_Dog_Statue": {
+		"slots": {
+			"bootttomeye": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"topeye": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"Top_Eye_Dog_Statue": {
+		"slots": {
+			"bootttomeye": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"headmiddle": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"topeye": {
+				"attachment": [
+					{ "time": 0, "name": "topeye" }
+				]
+			}
+		}
+	},
+	"animation": {}
+}
+}

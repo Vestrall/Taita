@@ -1,0 +1,90 @@
+
+GirlAnimation.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Body
+  rotate: false
+  xy: 2, 162
+  size: 191, 335
+  orig: 191, 335
+  offset: 0, 0
+  index: -1
+Girl_Hair
+  rotate: false
+  xy: 324, 286
+  size: 161, 211
+  orig: 161, 211
+  offset: 0, 0
+  index: -1
+Girl_Head
+  rotate: true
+  xy: 726, 379
+  size: 118, 196
+  orig: 118, 196
+  offset: 0, 0
+  index: -1
+Girl_Head_Blink1
+  rotate: true
+  xy: 2, 42
+  size: 118, 196
+  orig: 118, 196
+  offset: 0, 0
+  index: -1
+Girl_Head_Blink2
+  rotate: true
+  xy: 487, 252
+  size: 118, 196
+  orig: 118, 196
+  offset: 0, 0
+  index: -1
+Girl_LeftArm
+  rotate: false
+  xy: 195, 238
+  size: 127, 259
+  orig: 127, 259
+  offset: 0, 0
+  index: -1
+Girl_LeftHand
+  rotate: false
+  xy: 924, 463
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+Girl_LeftLeg
+  rotate: true
+  xy: 324, 235
+  size: 49, 153
+  orig: 49, 153
+  offset: 0, 0
+  index: -1
+Girl_Neck
+  rotate: false
+  xy: 195, 192
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Girl_RightArm
+  rotate: true
+  xy: 487, 372
+  size: 125, 237
+  orig: 125, 237
+  offset: 0, 0
+  index: -1
+Girl_RightHand
+  rotate: false
+  xy: 685, 315
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+Girl_RightLeg
+  rotate: true
+  xy: 2, 2
+  size: 38, 177
+  orig: 38, 177
+  offset: 0, 0
+  index: -1

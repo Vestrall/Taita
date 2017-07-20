@@ -1,0 +1,103 @@
+
+DogGod.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigBlink
+  rotate: false
+  xy: 552, 119
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+Bigeye
+  rotate: false
+  xy: 780, 687
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+Rock
+  rotate: false
+  xy: 0, 254
+  size: 778, 761
+  orig: 778, 761
+  offset: 0, 0
+  index: -1
+blinkbottom
+  rotate: false
+  xy: 700, 240
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+blinkmiddle
+  rotate: false
+  xy: 780, 673
+  size: 56, 12
+  orig: 56, 12
+  offset: 0, 0
+  index: -1
+blinktop
+  rotate: false
+  xy: 865, 755
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 0, 0
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 780, 770
+  size: 245, 188
+  orig: 245, 188
+  offset: 0, 0
+  index: -1
+middle
+  rotate: true
+  xy: 970, 957
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+paws
+  rotate: false
+  xy: 0, 37
+  size: 550, 215
+  orig: 550, 215
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 552, 132
+  size: 146, 120
+  orig: 146, 120
+  offset: 0, 0
+  index: -1
+
+DogGod2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGjaw
+  rotate: false
+  xy: 531, 0
+  size: 361, 501
+  orig: 361, 501
+  offset: 0, 0
+  index: -1
+head1
+  rotate: true
+  xy: 0, 105
+  size: 396, 529
+  orig: 396, 529
+  offset: 0, 0
+  index: -1

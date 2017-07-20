@@ -1,0 +1,637 @@
+
+Treespineanimation-Tree.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_0
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_1
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree3.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_2
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree4.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_3
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree5.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_4
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree6.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_5
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree7.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_6
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree8.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_7
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree9.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_8
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree10.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_9
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree11.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_10
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree12.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_11
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree13.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_12
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree14.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_13
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree15.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_14
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree16.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_15
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree17.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_16
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree18.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_17
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree19.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_18
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree20.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_19
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree21.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_20
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree22.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_21
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree23.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_22
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree24.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_23
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree25.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_24
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree26.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_25
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree27.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_26
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree28.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_27
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree29.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_28
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree30.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_29
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree31.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_30
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree32.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_31
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree33.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_32
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree34.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_33
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree35.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_34
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree36.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_35
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree37.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_36
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree38.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_37
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree39.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_38
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree40.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_39
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree41.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_40
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree42.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_41
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree43.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_42
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree44.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_43
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree45.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_44
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree46.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_45
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree47.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_46
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree48.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_47
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1
+
+Treespineanimation-Tree49.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Treespineanimation-Tree_48
+  rotate: false
+  xy: 0, 0
+  size: 897, 1111
+  orig: 897, 1111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+dog stat.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodydogstatue
+  rotate: false
+  xy: 2, 135
+  size: 644, 674
+  orig: 646, 676
+  offset: 1, 1
+  index: -1
+bootttomeye
+  rotate: false
+  xy: 89, 69
+  size: 70, 64
+  orig: 72, 66
+  offset: 1, 1
+  index: -1
+eyeclosed
+  rotate: false
+  xy: 2, 69
+  size: 85, 64
+  orig: 87, 66
+  offset: 1, 1
+  index: -1
+headmiddle
+  rotate: false
+  xy: 648, 745
+  size: 85, 64
+  orig: 87, 66
+  offset: 1, 1
+  index: -1
+topeye
+  rotate: false
+  xy: 2, 2
+  size: 84, 65
+  orig: 86, 67
+  offset: 1, 1
+  index: -1

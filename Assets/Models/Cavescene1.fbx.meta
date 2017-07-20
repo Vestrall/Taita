@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: fad46c44650bd7d4d872bffc948ac5f6
+timeCreated: 1490585985
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Scene2:group10
+    100004: Scene2:group14
+    100006: Scene2:group15
+    100008: Scene2:group4
+    100010: Scene2:group7
+    100012: Scene2:group8
+    100014: Scene2:group9
+    100016: Scene2:pasted__group4
+    100018: Scene2:pasted__group8
+    100020: Scene2:pasted__pasted__pCube7
+    100022: Scene2:pasted__pasted__pCube8
+    100024: Scene2:pasted__pCube10
+    100026: Scene2:pasted__pCube5
+    100028: Scene2:pasted__pCube6
+    100030: Scene2:pasted__pCube7
+    100032: Scene2:pasted__pCube8
+    100034: Scene2:pCube10
+    100036: Scene2:pCube11
+    100038: Scene2:pCube3
+    100040: Scene2:pCube6
+    100042: Scene2:pCube7
+    100044: Scene2:pCube8
+    100046: pasted__group17
+    100048: pasted__pasted__pCube4
+    400000: //RootNode
+    400002: Scene2:group10
+    400004: Scene2:group14
+    400006: Scene2:group15
+    400008: Scene2:group4
+    400010: Scene2:group7
+    400012: Scene2:group8
+    400014: Scene2:group9
+    400016: Scene2:pasted__group4
+    400018: Scene2:pasted__group8
+    400020: Scene2:pasted__pasted__pCube7
+    400022: Scene2:pasted__pasted__pCube8
+    400024: Scene2:pasted__pCube10
+    400026: Scene2:pasted__pCube5
+    400028: Scene2:pasted__pCube6
+    400030: Scene2:pasted__pCube7
+    400032: Scene2:pasted__pCube8
+    400034: Scene2:pCube10
+    400036: Scene2:pCube11
+    400038: Scene2:pCube3
+    400040: Scene2:pCube6
+    400042: Scene2:pCube7
+    400044: Scene2:pCube8
+    400046: pasted__group17
+    400048: pasted__pasted__pCube4
+    2300000: Scene2:pasted__pasted__pCube7
+    2300002: Scene2:pasted__pasted__pCube8
+    2300004: Scene2:pasted__pCube10
+    2300006: Scene2:pasted__pCube5
+    2300008: Scene2:pasted__pCube6
+    2300010: Scene2:pasted__pCube7
+    2300012: Scene2:pasted__pCube8
+    2300014: Scene2:pCube10
+    2300016: Scene2:pCube11
+    2300018: Scene2:pCube3
+    2300020: Scene2:pCube6
+    2300022: Scene2:pCube7
+    2300024: Scene2:pCube8
+    2300026: pasted__pasted__pCube4
+    3300000: Scene2:pasted__pasted__pCube7
+    3300002: Scene2:pasted__pasted__pCube8
+    3300004: Scene2:pasted__pCube10
+    3300006: Scene2:pasted__pCube5
+    3300008: Scene2:pasted__pCube6
+    3300010: Scene2:pasted__pCube7
+    3300012: Scene2:pasted__pCube8
+    3300014: Scene2:pCube10
+    3300016: Scene2:pCube11
+    3300018: Scene2:pCube3
+    3300020: Scene2:pCube6
+    3300022: Scene2:pCube7
+    3300024: Scene2:pCube8
+    3300026: pasted__pasted__pCube4
+    4300000: Scene2:pCube3
+    4300002: Scene2:pCube6
+    4300004: Scene2:pCube7
+    4300006: Scene2:pCube8
+    4300008: Scene2:pCube10
+    4300010: Scene2:pasted__pCube8
+    4300012: Scene2:pCube11
+    4300014: Scene2:pasted__pCube10
+    4300016: Scene2:pasted__pCube7
+    4300018: Scene2:pasted__pasted__pCube7
+    4300020: Scene2:pasted__pCube5
+    4300022: Scene2:pasted__pCube6
+    4300024: Scene2:pasted__pasted__pCube8
+    4300026: pasted__pasted__pCube4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
